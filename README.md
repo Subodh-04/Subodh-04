@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Subodh-04
-- 👀 I’m interested in coding,Ethical hacking. 
-- 🌱 I’m currently learning java
+- 👀 I’m interested in Web Devlopment 
+- 🌱 I’m currently learning Frontend Devlopment
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me email me 
 
