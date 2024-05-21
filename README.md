@@ -5,7 +5,6 @@
 
 - 📫 How to reach me **subodhsurwade04@gmail.com**
 
-- 📄 Know about my experiences [file:///C:/Users/Sumed%20Surwade/Downloads/Subodh%20resume%20%20(2).pdf](file:///C:/Users/Sumed%20Surwade/Downloads/Subodh%20resume%20%20(2).pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
